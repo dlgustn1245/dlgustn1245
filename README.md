@@ -18,9 +18,9 @@ Unity와 C#으로 키오스크, 게임, 인터랙티브 콘텐츠를 개발합�
 
 | 분야 | 기술 |
 |---|---|
-| Unity | C#, MVC Pattern, ScriptableObject, Shader, RenderTexture, Android, WebGL |
+| Unity | C#, MVC Pattern, Android, WebGL |
 | 데스크톱 | WPF, XAML, .NET, VB |
-| 서버·통신 | Firebase, REST API, MQTT, OSC, SOLAPI (문자·알림톡) |
+| 서버·통신 | Firebase, REST API, MQTT, OSC |
 | 하드웨어 | Arduino, Serial Comm (RS232), RFID, Canon SDK, Printer SDK, Intel RealSense |
 
 ### 대표 작업
